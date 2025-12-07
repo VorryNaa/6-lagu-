@@ -328,123 +328,39 @@ let songs = [
     },
 
     {
-
         id: 5,
-
-        title: "Somebody's Pleasure",
-
-        artist: "Aziz Hedra", 
-
-        album: "Unreleased",
-
-        albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.5fDFhJU8ZYGRlPD4ffPlgAHaHa&pid=Api&P=0&h=220", 
-
-        audioSrc: "audio/Somebodys Pleasure.mp3",
-
-        videoBgSrc: "videos/somebodys_pleasure_bg.mp4",
-
-        lyrics: [
-
-            { time: 1000, text: "I've been too busy ignoring and hiding" },
-
-            { time: 1000, text: "About what my heart actually say" },
-
-            { time: 1000, text: "Stay awake while I'm drowning on my thoughts" },
-
-            { time: 1000, text: "Sometimes a happiness is just a happiness" },
-
-            { time: 1000, text: "I've never been enjoying my serenity" },
-
-            { time: 1000, text: "Even if I've got a lot of company" },
-
-            { time: 1000, text: "That makes me happy" },
-
-            { time: 1000, text: "Soul try to figure it out" },
-
-            { time: 1000, text: "From where I've been escaping" },
-
-            { time: 1000, text: "Running to end all the sin" },
-
-            { time: 1000, text: "Get away from the pressure" },
-
-            { time: 1000, text: "Wondering to get a love that is so pure" },
-
-            { time: 1000, text: "Gotta have to always make sure" },
-
-            { time: 1000, text: "That I'm not just somebody's pleasure" },
-
-            { time: 1000, text: "I always pretending and lying" },
-
-            { time: 1000, text: "I got used to feel empty" },
-
-            { time: 1000, text: "'Cause all I got is unhappy" },
-
-            { time: 1000, text: "Happiness, can't I get happiness?" },
-
-            { time: 1000, text: "I've never been enjoying my serenity" },
-
-            { time: 1000, text: "Even if I've got a lot of company" },
-
-            { time: 1000, text: "That makes me happy" },
-
-            { time: 1000, text: "And I don't even feel my own pain" },
-
-            { time: 1000, text: "Whatever when the storms pouring rain" },
-
-            { time: 1000, text: "Feels like a wind" },
-
-            { time: 1000, text: "Soul try to figure it out" },
-
-            { time: 1000, text: "From where I've been escaping" },
-
-            { time: 1000, text: "Running to end all the sin" },
-
-            { time: 1000, text: "Get away from the pressure" },
-
-            { time: 1000, text: "Wondering to get a love that is so pure" },
-
-            { time: 1000, text: "Gotta have to always make sure" },
-
-            { time: 1000, text: "That I'm not just somebody's pleasure" },
-
-            { time: 1000, text: "I hold imagination" },
-
-            { time: 1000, text: "Cover all of the sadness" },
-
-            { time: 1000, text: "I don't feel something special" },
-
-            { time: 1000, text: "Turn off the phone to get some spatial" },
-
-            { time: 1000, text: "Never thought I'd living in true" },
-
-            { time: 1000, text: "The truth that has been so blue" },
-
-            { time: 1000, text: "It was in a blink of an eye" },
-
-            { time: 1000, text: "Find a way how to say goodbye" },
-
-            { time: 1000, text: "I've got to take me away from all sadness" },
-
-            { time: 1000, text: "Stitch all my wounds, confess all the sins" },
-
-            { time: 1000, text: "And took all my insecurities" },
-
-            { time: 1000, text: "When will I got the love that is so pure?" },
-
-            { time: 1000, text: "Gotta have to always make sure" },
-
-            { time: 1000, text: "That I'm not just, I'm not just somebody's pleasure" },
-
-            { time: 1000, text: "Gotta have, gotta have to always make sure" },
-
-            { time: 1000, text: "I'm not just somebody's pleasure" }
-
-        ]
-
-    },
-
-    {
-
+    title: "Abadi",
+    artist: "Dendi Nata",
+    album: "",
+    albumArtUrl: "",
+    audioSrc: "audio/abadi.mp3",
+    videoBgSrc: "videos/abadi.mp4",
+    audioBgSrc: "audio/static_abadi.mp3",
+    lyrics: [
+      { time: 0.00, text: "Bulan pun berganti" },
+      { time: 2.27, text: "Harumnya telah pergi" },
+      { time: 4.55, text: "Aku menanti" },
+      { time: 6.82, text: "Aku tak mengerti" },
+      { time: 9.09, text: "Biar pun kita hilang, tak lagi bersama" },
+      { time: 13.64, text: "Tak lagi bercinta berdua" },
+      { time: 15.91, text: "Masih saja kupandang wajahnya yang hilang" },
+      { time: 18.19, text: "Tak akan berganti, dia abadi" },
+      { time: 22.73, text: "Abadi untuk selamanya, selama-lamanya" },
+      { time: 27.28, text: "Oh-oh, oh, oh-ho-oh" },
+      { time: 31.82, text: "Uh-uh" },
+      { time: 34.10, text: "Biar pun kita hilang, tak lagi bersama" },
+      { time: 38.64, text: "Tak lagi bercinta berdua" },
+      { time: 40.92, text: "Masih saja kupandang wajahnya yang hilang" },
+      { time: 43.19, text: "Tak akan berganti, dia-" },
+      { time: 45.46, text: "Dan biar pun kita hilang, tak lagi bersama" },
+      { time: 50.01, text: "Tak lagi bercinta berdua" },
+      { time: 52.28, text: "Masih saja kupandang wajahnya yang hilang" },
+      { time: 54.56, text: "Tak akan berganti, dia abadi" },
+      { time: 59.10, text: "Abadi untuk selamanya, abadi" },
+      { time: 63.65, text: "Abadi untuk selamanya" }
+    ]
+  }, 
+];
         id: 6,
 
         title: "I Wanna Be Yours",
